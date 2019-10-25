@@ -1,0 +1,9 @@
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\LeetCode_Challenges\FindAllDuplicatesInAnArray\bin\Debug\FindAllDuplicatesInAnArray.exe.config
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\LeetCode_Challenges\FindAllDuplicatesInAnArray\bin\Debug\FindAllDuplicatesInAnArray.exe
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\LeetCode_Challenges\FindAllDuplicatesInAnArray\bin\Debug\FindAllDuplicatesInAnArray.pdb
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\LeetCode_Challenges\FindAllDuplicatesInAnArray\obj\Debug\FindAllDuplicatesInAnArray.csproj.CoreCompileInputs.cache
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\LeetCode_Challenges\FindAllDuplicatesInAnArray\obj\Debug\FindAllDuplicatesInAnArray.exe
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\LeetCode_Challenges\FindAllDuplicatesInAnArray\obj\Debug\FindAllDuplicatesInAnArray.pdb
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\LeetCode_Challenges\FindAllDuplicatesInAnArray\obj\Debug\FindAllDuplicatesInAnArray.csprojAssemblyReference.cache
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\LeetCode_Challenges\FindAllDuplicatesInAnArray\obj\Debug\FindAllDuplicatesInAnArray.Properties.Resources.resources
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\LeetCode_Challenges\FindAllDuplicatesInAnArray\obj\Debug\FindAllDuplicatesInAnArray.csproj.GenerateResource.cache

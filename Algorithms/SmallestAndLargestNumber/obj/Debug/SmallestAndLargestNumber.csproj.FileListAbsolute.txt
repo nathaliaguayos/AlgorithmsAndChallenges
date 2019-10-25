@@ -1,0 +1,7 @@
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\SmallestAndLargestNumber\bin\Debug\SmallestAndLargestNumber.exe.config
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\SmallestAndLargestNumber\bin\Debug\SmallestAndLargestNumber.exe
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\SmallestAndLargestNumber\bin\Debug\SmallestAndLargestNumber.pdb
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\SmallestAndLargestNumber\obj\Debug\SmallestAndLargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\SmallestAndLargestNumber\obj\Debug\SmallestAndLargestNumber.exe
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\SmallestAndLargestNumber\obj\Debug\SmallestAndLargestNumber.pdb
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\SmallestAndLargestNumber\obj\Debug\SmallestAndLargestNumber.csprojAssemblyReference.cache

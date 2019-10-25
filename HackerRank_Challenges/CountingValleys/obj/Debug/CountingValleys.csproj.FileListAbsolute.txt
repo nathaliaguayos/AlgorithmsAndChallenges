@@ -1,0 +1,7 @@
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\HackerRank_Challenges\CountingValleys\bin\Debug\CountingValleys.exe.config
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\HackerRank_Challenges\CountingValleys\bin\Debug\CountingValleys.exe
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\HackerRank_Challenges\CountingValleys\bin\Debug\CountingValleys.pdb
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\HackerRank_Challenges\CountingValleys\obj\Debug\CountingValleys.csprojAssemblyReference.cache
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\HackerRank_Challenges\CountingValleys\obj\Debug\CountingValleys.csproj.CoreCompileInputs.cache
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\HackerRank_Challenges\CountingValleys\obj\Debug\CountingValleys.exe
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\HackerRank_Challenges\CountingValleys\obj\Debug\CountingValleys.pdb

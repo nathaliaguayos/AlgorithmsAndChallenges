@@ -1,0 +1,13 @@
+C:\Users\Nathali_Aguayo\Documents\Visual Studio 2017\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\Nathali_Aguayo\Documents\Visual Studio 2017\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\Nathali_Aguayo\Documents\Visual Studio 2017\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\Nathali_Aguayo\Documents\Visual Studio 2017\Projects\Algorithms\Algorithms\obj\Debug\Palindrome_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Nathali_Aguayo\Documents\Visual Studio 2017\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\Nathali_Aguayo\Documents\Visual Studio 2017\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\Algorithms\obj\Debug\Palindrome_Algorithm.csprojAssemblyReference.cache
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\Algorithms\obj\Debug\Palindrome_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.pdb

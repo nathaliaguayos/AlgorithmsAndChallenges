@@ -1,0 +1,7 @@
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\FindDuplicatedNumbers\bin\Debug\FindDuplicatedNumbers.exe.config
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\FindDuplicatedNumbers\bin\Debug\FindDuplicatedNumbers.exe
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\FindDuplicatedNumbers\bin\Debug\FindDuplicatedNumbers.pdb
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\FindDuplicatedNumbers\obj\Debug\FindDuplicatedNumbers.csprojAssemblyReference.cache
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\FindDuplicatedNumbers\obj\Debug\FindDuplicatedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\FindDuplicatedNumbers\obj\Debug\FindDuplicatedNumbers.exe
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\Projects\Algorithms\FindDuplicatedNumbers\obj\Debug\FindDuplicatedNumbers.pdb
