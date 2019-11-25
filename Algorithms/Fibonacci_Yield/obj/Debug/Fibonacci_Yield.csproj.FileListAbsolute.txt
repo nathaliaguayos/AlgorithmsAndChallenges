@@ -1,0 +1,6 @@
+C:\Users\NathaliAguayo\Desktop\Projects\AlgorithmsAndChallenges\Algorithms\Fibonacci_Yield\bin\Debug\Fibonacci_Yield.exe.config
+C:\Users\NathaliAguayo\Desktop\Projects\AlgorithmsAndChallenges\Algorithms\Fibonacci_Yield\bin\Debug\Fibonacci_Yield.exe
+C:\Users\NathaliAguayo\Desktop\Projects\AlgorithmsAndChallenges\Algorithms\Fibonacci_Yield\bin\Debug\Fibonacci_Yield.pdb
+C:\Users\NathaliAguayo\Desktop\Projects\AlgorithmsAndChallenges\Algorithms\Fibonacci_Yield\obj\Debug\Fibonacci_Yield.csprojResolveAssemblyReference.cache
+C:\Users\NathaliAguayo\Desktop\Projects\AlgorithmsAndChallenges\Algorithms\Fibonacci_Yield\obj\Debug\Fibonacci_Yield.exe
+C:\Users\NathaliAguayo\Desktop\Projects\AlgorithmsAndChallenges\Algorithms\Fibonacci_Yield\obj\Debug\Fibonacci_Yield.pdb
